@@ -110,6 +110,11 @@ const chapters = [
     path: "/Chapter/RutherfordScattering",
     icon: "lucide:circle-pile",
   },
+  {
+    name: "Free Fall with Air Resistance",
+    path: "/Chapter/FreeFallAirResistance",
+    icon: "lucide:arrow-down"
+  },
 ];
 </script>
 
